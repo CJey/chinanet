@@ -1,0 +1,17 @@
+#! /bin/sh
+
+_ROOT="$(pwd)" && cd "$(dirname "$0")" && ROOT="$(pwd)"
+
+GFWLISTLINK="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+GFWNAME=gfwlist
+
+echo "Fetching latest [gfwlist.txt]..."
+CONTENT="$(curl -s "$GFWLISTLINK")"
+if [ $? -ne 0 ]; then
+    exit 1
+fi
+
+echo "Putting into file [$GFWNAME]..."
+echo "$CONTENT" | base64 -d | sed -r -n 's;^(\|\||\.)?(www\.)?([0-9a-z\-\.]+\.com)$;\3;ip' | sort | uniq > $GFWNAME
+
+echo "Done!"

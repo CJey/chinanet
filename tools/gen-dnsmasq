@@ -1,0 +1,45 @@
+#! /bin/sh
+
+_ROOT="$(pwd)" && cd "$(dirname "$0")" && ROOT="$(pwd)"
+
+if [ -z "$1" ]; then
+    echo "Usage: $0 {dns ip}"
+    echo "e.g. $0 8.8.8.8"
+    exit
+fi
+
+echo -n "$1" | grep -P -q '^\d+(\.(\d+)){3,3}$'
+if [ $? -ne 0 ]; then
+    echo "[ERROR] Invalid dns ip format => $1"
+    exit 1
+fi
+
+DNS=$1
+
+NAMESDIR="$(dirname $ROOT)/domains"
+
+output() {
+    while read name; do
+        name="$(echo -n "$name" | sed -r -n 's;^\s*([0-9a-z-]+(\.[0-9a-z-]+)*)\s*$;\1;ip')"
+        [ -n "$name" ] && echo "server = /$name/$1"
+    done
+}
+
+echo "# China company that use TLD exclude cn"
+output '#' <$NAMESDIR/cn-tld
+echo
+
+echo "# gfw-extra"
+output $DNS <$NAMESDIR/gfw-extra
+echo
+
+echo "# gTLD"
+output $DNS <$NAMESDIR/gtld
+echo
+
+echo "# ccTLD"
+output $DNS <$NAMESDIR/cctld
+echo
+
+echo "# gfwlist"
+output $DNS <$NAMESDIR/gfwlist

@@ -9,12 +9,15 @@ DNS=8.8.8.8
 cd $REPO
 
 # domain
-fold="$(sha1sum domains/gfwlist)"
+mkdir tmp
+fold="$(sha1sum tmp/gfwlist)"
 domains/update-gfwlist
 
 fnew="$(sha1sum domains/gfwlist)"
 if [ "$fnew" != "$fold" ]; then
     $ROOT/gen-dnsmasq $DNS
+    $ROOT/gen-autoproxy
+    cp domains/gfwlist tmp/gfwlist
 fi
 
 # ip
@@ -25,6 +28,7 @@ if [ $? -eq 0 ]; then
     echo "pushing..."
     $GIT add domains/gfwlist
     $GIT add tools/dnsmasq-$DNS
+    $GIT add tools/chinanet.txt
     $GIT add ips/chinaip
     $GIT commit -m "Auto Commit at $(date +'%Y-%m-%d %H:%M:%S %Z')"
     $GIT push

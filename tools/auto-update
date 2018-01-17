@@ -4,6 +4,7 @@ _ROOT="$(pwd)" && cd "$(dirname "$0")" && ROOT="$(pwd)"
 
 REPO="$(dirname "$ROOT")"
 GIT=git
+DNS=8.8.8.8
 
 cd $REPO
 
@@ -13,7 +14,7 @@ domains/update-gfwlist
 
 fnew="$(sha1sum domains/gfwlist)"
 if [ "$fnew" != "$fold" ]; then
-    $ROOT/gen-dnsmasq 8.8.8.8 > $ROOT/dnsmasq-8.8.8.8
+    $ROOT/gen-dnsmasq $DNS
 fi
 
 # ip
@@ -23,7 +24,7 @@ $GIT status -s | grep -qP '^\s*M\s+'
 if [ $? -eq 0 ]; then
     echo "pushing..."
     $GIT add domains/gfwlist
-    $GIT add tools/dnsmasq-8.8.8.8
+    $GIT add tools/dnsmasq-$DNS
     $GIT add ips/chinaip
     $GIT commit -m "Auto Commit at $(date +'%Y-%m-%d %H:%M:%S %Z')"
     $GIT push

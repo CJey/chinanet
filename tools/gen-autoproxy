@@ -1,0 +1,34 @@
+#! /bin/sh
+
+_ROOT="$(pwd)" && cd "$(dirname "$0")" && ROOT="$(pwd)"
+
+NAMESDIR="$(dirname $ROOT)/domains"
+FNAME=$ROOT/chinanet.txt
+truncate -s0 $FNAME
+
+output() {
+    rule=$1
+    while read name; do
+        name="$(echo -n "$name" | sed -r -n 's;^\s*([0-9a-z-]+(\.[0-9a-z-]+)*)\s*$;\1;ip')"
+        [ -n "$name" ] && echo "$rule$name"
+    done
+}
+
+echo "# China company that use TLD exclude cn" >>$FNAME
+output '@@||' <$NAMESDIR/cn-tld >>$FNAME
+echo >>$FNAME
+
+echo "# gfw-extra" >>$FNAME
+output '||' <$NAMESDIR/gfw-extra >>$FNAME
+echo >>$FNAME
+
+echo "# gTLD" >>$FNAME
+output '||' <$NAMESDIR/gtld >>$FNAME
+echo >>$FNAME
+
+echo "# ccTLD" >>$FNAME
+output '||' <$NAMESDIR/cctld >>$FNAME
+echo >>$FNAME
+
+echo "# gfwlist" >>$FNAME
+output '||' <$NAMESDIR/gfwlist >>$FNAME

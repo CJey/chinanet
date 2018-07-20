@@ -1,11 +1,37 @@
 # China company that use TLD exclude cn
 @@||cisy.me
 @@||cjey.me
-@@||ele.me
-@@||ipip.net
-@@||teamin.cc
+@@||39.net
+@@||51.la
+@@||acfun.tv
+@@||ali213.net
+@@||chinaunix.net
+@@||cn163.net
+@@||cnki.net
+@@||cqnews.net
 @@||csdn.net
 @@||douban.fm
+@@||dytt8.net
+@@||ele.me
+@@||ipip.net
+@@||jandan.net
+@@||jb51.net
+@@||jjwxc.net
+@@||kdnet.net
+@@||ngacn.cc
+@@||onlinedown.net
+@@||oschina.net
+@@||p5w.net
+@@||panda.tv
+@@||pchome.net
+@@||pps.tv
+@@||quanmin.tv
+@@||savefrom.net
+@@||tiexue.net
+@@||tower.im
+@@||zhanqi.tv
+@@||zhibo8.cc
+@@||zimuzu.tv
 
 # gfw-extra
 ||github.com

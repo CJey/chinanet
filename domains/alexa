@@ -2,5 +2,5 @@
 
 for page in `seq 1 20`; do
     domains="$(curl -s "http://alexa.chinaz.com/Country/index_CN_$page.html" | sed -nr 's/.*domain=([a-z0-9-]+(\.[a-z0-9-]+)+).*/\1/p')"
-    echo "$domains" | grep -v '\.com$' | grep -v '\.cn$'
+    echo "$domains" | grep -v '\.com$' | grep -v '\.cn$' | grep -v '\.hk$' | grep -v 'google'
 done

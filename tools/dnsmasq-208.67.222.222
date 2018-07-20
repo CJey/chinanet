@@ -1,11 +1,37 @@
 # China company that use TLD exclude cn
 server = /cisy.me/#
 server = /cjey.me/#
-server = /ele.me/#
-server = /ipip.net/#
-server = /teamin.cc/#
+server = /39.net/#
+server = /51.la/#
+server = /acfun.tv/#
+server = /ali213.net/#
+server = /chinaunix.net/#
+server = /cn163.net/#
+server = /cnki.net/#
+server = /cqnews.net/#
 server = /csdn.net/#
 server = /douban.fm/#
+server = /dytt8.net/#
+server = /ele.me/#
+server = /ipip.net/#
+server = /jandan.net/#
+server = /jb51.net/#
+server = /jjwxc.net/#
+server = /kdnet.net/#
+server = /ngacn.cc/#
+server = /onlinedown.net/#
+server = /oschina.net/#
+server = /p5w.net/#
+server = /panda.tv/#
+server = /pchome.net/#
+server = /pps.tv/#
+server = /quanmin.tv/#
+server = /savefrom.net/#
+server = /tiexue.net/#
+server = /tower.im/#
+server = /zhanqi.tv/#
+server = /zhibo8.cc/#
+server = /zimuzu.tv/#
 
 # gfw-extra
 server = /github.com/208.67.222.222

@@ -41,6 +41,7 @@ server = /adjust.com/208.67.222.222
 server = /appsflyer.com/208.67.222.222
 server = /crashlytics.com/208.67.222.222
 server = /inmobi.com/208.67.222.222
+server = /aws.amazon.com/208.67.222.222
 
 # gTLD
 server = /aero/208.67.222.222

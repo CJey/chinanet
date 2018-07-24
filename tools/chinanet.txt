@@ -41,6 +41,7 @@
 ||appsflyer.com
 ||crashlytics.com
 ||inmobi.com
+||aws.amazon.com
 
 # gTLD
 ||aero

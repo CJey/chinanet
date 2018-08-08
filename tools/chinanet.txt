@@ -34,14 +34,15 @@
 @@||zimuzu.tv
 
 # gfw-extra
-||github.com
-||path.com
-||mixpanel.com
 ||adjust.com
 ||appsflyer.com
-||crashlytics.com
-||inmobi.com
 ||aws.amazon.com
+||crashlytics.com
+||github.com
+||inmobi.com
+||mixpanel.com
+||path.com
+||stackoverflow.com
 
 # gTLD
 ||aero
@@ -522,12 +523,14 @@
 ||bandwagonhost.com
 ||bangbrosnetwork.com
 ||bangyoulater.com
+||bankmobilevibe.com
 ||banorte.com
 ||baramangaonline.com
 ||barenakedislam.com
 ||bartvpn.com
 ||bastillepost.com
 ||bbcchinese.com
+||bbc.com
 ||bbs.brockbbs.com
 ||bbs.ecstart.com
 ||bbsfeed.com
@@ -740,6 +743,7 @@
 ||city9x.com
 ||civiliangunner.com
 ||ck101.com
+||clearsurance.com
 ||cloakpoint.com
 ||club1069.com
 ||cmule.com
@@ -1702,6 +1706,7 @@
 ||notify.dropboxapi.com
 ||nottinghampost.com
 ||novelasia.com
+||now.com
 ||nownews.com
 ||nowtorrents.com
 ||noypf.com
@@ -1829,6 +1834,7 @@
 ||playno1.com
 ||playpcesor.com
 ||plunder.com
+||plurk.com
 ||plus28.com
 ||plusbb.com
 ||pmatehunter.com
@@ -1905,6 +1911,7 @@
 ||qstatus.com
 ||qtweeter.com
 ||questvisual.com
+||quora.com
 ||quran.com
 ||quranexplorer.com
 ||r18.com

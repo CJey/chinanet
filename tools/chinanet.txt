@@ -874,6 +874,7 @@
 ||duoweitimes.com
 ||duplicati.com
 ||dupola.com
+||dvdpac.com
 ||dw.com
 ||dwheeler.com
 ||dwnews.com
@@ -925,6 +926,7 @@
 ||erodoujinworld.com
 ||eromangadouzin.com
 ||eroprofile.com
+||eslite.com
 ||esurance.com
 ||etadult.com
 ||etaiwannews.com
@@ -1880,6 +1882,7 @@
 ||privatetunnel.com
 ||privatevpn.com
 ||procopytips.com
+||protonvpn.com
 ||provideocoalition.com
 ||provpnaccounts.com
 ||proxfree.com
@@ -1924,6 +1927,7 @@
 ||rawgit.com
 ||rawgithub.com
 ||razyboard.com
+||rcam.target.com
 ||rconversation.blogs.com
 ||rd.com
 ||rdio.com
@@ -1935,6 +1939,9 @@
 ||realitykings.com
 ||realraptalk.com
 ||realsexpass.com
+||reddit.com
+||redditmedia.com
+||redditstatic.com
 ||redhotlabs.com
 ||redtube.com
 ||reflectivecode.com
@@ -1958,6 +1965,7 @@
 ||ronjoneswriter.com
 ||roodo.com
 ||rotten.com
+||rsdlmonitor.com
 ||rssmeme.com
 ||rushbee.com
 ||ruyiseek.com
@@ -2106,6 +2114,7 @@
 ||ss.carryzhou.com
 ||ssh91.com
 ||ss.levyhsu.com
+||ssrshare.com
 ||starfishfx.com
 ||starp2p.com
 ||startpage.com
@@ -2174,6 +2183,7 @@
 ||taweet.com
 ||tcpspeed.com
 ||teamamericany.com
+||teddysun.com
 ||teensinasia.com
 ||telecomspace.com
 ||telegramdownload.com
@@ -2431,6 +2441,7 @@
 ||vimeo.com
 ||vincnd.com
 ||vinniev.com
+||virtualrealporn.com
 ||visibletweets.com
 ||viu.com
 ||vivatube.com
@@ -2479,6 +2490,7 @@
 ||vpnworldwide.com
 ||vporn.com
 ||vrmtr.com
+||vrsmash.com
 ||vtunnel.com
 ||w3schools.com
 ||waffle1999.com
@@ -2654,6 +2666,7 @@
 ||zacebook.com
 ||zalmos.com
 ||zannel.com
+||zaobao.com
 ||zaozon.com
 ||zattoo.com
 ||zb.com

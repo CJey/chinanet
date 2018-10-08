@@ -649,6 +649,7 @@
 ||bullogger.com
 ||bunbunhk.com
 ||busayari.com
+||businessinsider.com
 ||businessweek.com
 ||busytrade.com
 ||buugaa.com
@@ -969,8 +970,10 @@
 ||fastssh.com
 ||fast.wistia.com
 ||fatbtc.com
+||fbaddins.com
 ||fb.com
 ||fbsbx.com
+||fbworkmail.com
 ||fc2china.com
 ||fc2cn.com
 ||fc2.com
@@ -2151,6 +2154,7 @@
 ||sun1911.com
 ||sunporno.com
 ||sunskyforum.com
+||supchina.com
 ||superfreevpn.com
 ||superokayama.com
 ||superpages.com

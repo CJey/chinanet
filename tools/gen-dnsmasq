@@ -8,6 +8,19 @@ if [ -z "$1" ]; then
     exit
 fi
 
+if [ "$1" = "auto" ]; then
+    echo $0 1.1.1.1
+    $0 1.1.1.1
+
+    echo $0 8.8.8.8
+    $0 8.8.8.8
+
+    echo $0 208.67.222.222
+    $0 208.67.222.222
+
+    exit 0
+fi
+
 echo -n "$1" | grep -P -q '^\d+(\.(\d+)){3,3}$'
 if [ $? -ne 0 ]; then
     echo "[ERROR] Invalid dns ip format => $1"

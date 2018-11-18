@@ -477,6 +477,7 @@
 ||apigee.com
 ||api.linksalpha.com
 ||api.proxlet.com
+||api.pureapk.com
 ||apkmirror.com
 ||apkplz.com
 ||apkpure.com
@@ -1012,6 +1013,7 @@
 ||focusvpn.com
 ||fooooo.com
 ||footwiball.com
+||foreignpolicy.com
 ||forum4hk.com
 ||forum.idsam.com
 ||forum.my903.com
@@ -1269,6 +1271,7 @@
 ||hqsbnet.wordpress.com
 ||hqsbonline.wordpress.com
 ||hrcir.com
+||hrtsea.com
 ||hsselite.com
 ||html5rocks.com
 ||huaglad.com
@@ -1469,6 +1472,7 @@
 ||letou.com
 ||lflink.com
 ||lflinkup.com
+||liangzhichuanmei.com
 ||lifemiles.com
 ||like.com
 ||linglingfa.com
@@ -1772,6 +1776,7 @@
 ||orgasm.com
 ||orgfree.com
 ||osfoora.com
+||otcbtc.com
 ||otzo.com
 ||ourdearamy.com
 ||ourhobby.com
@@ -1877,6 +1882,7 @@
 ||powercx.com
 ||powerpointninja.com
 ||premeforwindows7.com
+||premproxy.com
 ||presentationzen.com
 ||prisoneralert.com
 ||pritunl.com
@@ -1960,6 +1966,7 @@
 ||rfachina.com
 ||rightbtc.com
 ||rileyguide.com
+||rixcloud.com
 ||rlwlw.com
 ||rmjdw.com
 ||roboforex.com

@@ -34,6 +34,8 @@
 @@||zimuzu.tv
 
 # gfw-extra
+||githubassets.com
+||googleapis.cn
 ||adjust.com
 ||appsflyer.com
 ||aws.amazon.com
@@ -786,6 +788,7 @@
 ||coursehero.com
 ||crackle.com
 ||crazyshit.com
+||crbug.com
 ||creadersnet.com
 ||creativelab5.com
 ||cristyli.com
@@ -1162,6 +1165,7 @@
 ||googlevideo.com
 ||googleweblight.com
 ||gopetition.com
+||goregrish.com
 ||gospelherald.com
 ||gotgeeks.com
 ||gotrusted.com
@@ -1328,6 +1332,7 @@
 ||instagram.com
 ||instanthq.com
 ||internetpopculture.com
+||inthenameofconfuciusmovie.com
 ||investigating.wordpress.com
 ||inxian.com
 ||ipalter.com
@@ -1614,6 +1619,7 @@
 ||moonbingo.com
 ||moroneta.com
 ||motherless.com
+||motiyun.com
 ||mousebreaker.com
 ||moviefap.com
 ||mp3buscador.com
@@ -1977,6 +1983,7 @@
 ||rotten.com
 ||rsdlmonitor.com
 ||rssmeme.com
+||runbtx.com
 ||rushbee.com
 ||ruyiseek.com
 ||s1heng.com
@@ -2112,6 +2119,7 @@
 ||specxinzl.jigsy.com
 ||speedify.com
 ||spencertipping.com
+||spendee.com
 ||spicevpn.com
 ||spideroak.com
 ||spike.com

@@ -403,6 +403,7 @@
 ||9bis.com
 ||abc.com
 ||abchinese.com
+||abebooks.com
 ||ablwang.com
 ||aboluowang.com
 ||aboutgfw.com
@@ -418,6 +419,7 @@
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
+||aex.com
 ||afantibbs.com
 ||agoogleaday.com
 ||airasia.com
@@ -454,6 +456,7 @@
 ||anchorfree.com
 ||android.com
 ||androidify.com
+||androidtv.com
 ||andygod.com
 ||animeshippuuden.com
 ||aniscartujo.com
@@ -493,7 +496,6 @@
 ||app.tutanota.com
 ||aptoide.com
 ||arctosia.com
-||asahichinese.com
 ||asiansexdiary.com
 ||asianspiss.com
 ||asiatgp.com
@@ -579,6 +581,7 @@
 ||binance.com
 ||bitcoinworld.com
 ||bitfinex.com
+||bithumb.com
 ||bitmex.com
 ||bitshare.com
 ||bitsnoop.com
@@ -646,6 +649,7 @@
 ||bt95.com
 ||btaia.com
 ||btbtav.com
+||btc98.com
 ||btspread.com
 ||btsynckeys.com
 ||buffered.com
@@ -659,6 +663,7 @@
 ||buzzhand.com
 ||buzzorange.com
 ||bvpn.com
+||bwgyhw.com
 ||c1522.mooo.com
 ||c2cx.com
 ||cachinese.com
@@ -749,6 +754,7 @@
 ||ck101.com
 ||clearsurance.com
 ||cloakpoint.com
+||cloud.feedly.com
 ||club1069.com
 ||cmule.com
 ||cn2.streetvoice.com
@@ -764,9 +770,12 @@
 ||cn.thegay.com
 ||cn.uncyclopedia.wikia.com
 ||cn.uptodown.com
+||cobinhood.com
+||coinbene.com
 ||coinegg.com
 ||coinex.com
 ||coingi.com
+||cointiger.com
 ||cointobe.com
 ||coinut.com
 ||collateralmurder.com
@@ -861,6 +870,7 @@
 ||dotplane.com
 ||dotsub.com
 ||dotvpn.com
+||doubibackup.com
 ||dougscripts.com
 ||doujincafe.com
 ||download.cnet.com
@@ -941,6 +951,7 @@
 ||eucasino.com
 ||eulam.com
 ||eurekavpt.com
+||euronews.com
 ||exmo.com
 ||expatshield.com
 ||expecthim.com
@@ -953,6 +964,7 @@
 ||ezpeer.com
 ||ezua.com
 ||facebook.com
+||facebookmail.com
 ||facebookquotes4u.com
 ||facesofnyfw.com
 ||faithfuleye.com
@@ -1194,6 +1206,7 @@
 ||hautelookcdn.com
 ||hautelook.com
 ||have8.com
+||hbg.com
 ||hbo.com
 ||hclips.com
 ||hdzog.com
@@ -1234,6 +1247,7 @@
 ||hkej.com
 ||hkfaa.com
 ||hkfreezone.com
+||hkgalden.com
 ||hk.geocities.com
 ||hkgolden.com
 ||hkhkhk.com
@@ -1479,6 +1493,7 @@
 ||lflinkup.com
 ||liangzhichuanmei.com
 ||lifemiles.com
+||lihkg.com
 ||like.com
 ||linglingfa.com
 ||lingvodics.com
@@ -1502,6 +1517,7 @@
 ||liwangyang.com
 ||lizhizhuangbi.com
 ||lobsangwangyal.com
+||localbitcoins.com
 ||localpresshk.com
 ||lockestek.com
 ||login.target.com
@@ -1563,9 +1579,11 @@
 ||memehk.com
 ||meme.yahoo.com
 ||memorybbs.com
+||mercatox.com
 ||meripet.com
 ||meshrep.com
 ||messenger.com
+||metart.com
 ||metarthunter.com
 ||meteorshowersonline.com
 ||meyul.com
@@ -1613,6 +1631,7 @@
 ||mofaxiehui.com
 ||mofos.com
 ||mog.com
+||mojim.com
 ||monster.com
 ||moodyz.com
 ||moonbbs.com
@@ -1725,6 +1744,7 @@
 ||nownews.com
 ||nowtorrents.com
 ||noypf.com
+||npsboost.com
 ||ntdtv.com
 ||ntdtvla.com
 ||ntrfun.com
@@ -1955,6 +1975,7 @@
 ||realraptalk.com
 ||realsexpass.com
 ||reddit.com
+||redditlist.com
 ||redditmedia.com
 ||redditstatic.com
 ||redhotlabs.com
@@ -2010,6 +2031,7 @@
 ||seapuff.com
 ||search.aol.com
 ||searchtruth.com
+||search.yahoo.com
 ||secretchina.com
 ||secure.logmein.com
 ||secure.raxcdn.com
@@ -2111,6 +2133,7 @@
 ||soundcloud.com
 ||soupofmedia.com
 ||sourcewadio.com
+||spaces.hightail.com
 ||spankbang.com
 ||spankingtube.com
 ||spankwire.com
@@ -2196,6 +2219,7 @@
 ||taiwanyes.ning.com
 ||talk853.com
 ||talkboxapp.com
+||talkcc.com
 ||tangben.com
 ||tapanwap.com
 ||tapatalk.com
@@ -2218,6 +2242,7 @@
 ||thehousenews.com
 ||theinitium.com
 ||thenewslens.com
+||theporndude.com
 ||theportalwiki.com
 ||thespeeder.com
 ||thestandnews.com
@@ -2226,6 +2251,7 @@
 ||thetrotskymovie.com
 ||thevivekspot.com
 ||theync.com
+||thinkgeek.com
 ||thinkingtaiwan.com
 ||thinkwithgoogle.com
 ||thisav.com
@@ -2273,6 +2299,7 @@
 ||togetter.com
 ||tokyocn.com
 ||toodoc.com
+||top10vpn.com
 ||topbtc.com
 ||toppornsites.com
 ||topshareware.com
@@ -2358,6 +2385,7 @@
 ||twimbow.com
 ||twimg.com
 ||twindexx.com
+||tw.iqiyi.com
 ||twishort.com
 ||twisterio.com
 ||twisternow.com
@@ -2427,6 +2455,7 @@
 ||usocctn.com
 ||usunitednews.com
 ||utopianpal.com
+||uukanshu.com
 ||uwants.com
 ||uyghurpress.com
 ||v2ex.com
@@ -2511,6 +2540,7 @@
 ||vrmtr.com
 ||vrsmash.com
 ||vtunnel.com
+||vultryhw.com
 ||w3schools.com
 ||waffle1999.com
 ||wahas.com

@@ -35,7 +35,9 @@
 
 # gfw-extra
 ||githubassets.com
+||google.cn
 ||googleapis.cn
+||googleadservices.com
 ||adjust.com
 ||appsflyer.com
 ||aws.amazon.com
@@ -2164,6 +2166,7 @@
 ||staticflickr.com
 ||static.shemalez.com
 ||steamcommunity.com
+||steemit.com
 ||steganos.com
 ||stepchina.com
 ||stephaniered.com

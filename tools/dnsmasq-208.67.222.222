@@ -35,7 +35,9 @@ server = /zimuzu.tv/#
 
 # gfw-extra
 server = /githubassets.com/208.67.222.222
+server = /google.cn/208.67.222.222
 server = /googleapis.cn/208.67.222.222
+server = /googleadservices.com/208.67.222.222
 server = /adjust.com/208.67.222.222
 server = /appsflyer.com/208.67.222.222
 server = /aws.amazon.com/208.67.222.222
@@ -2164,6 +2166,7 @@ server = /static01.nyt.com/208.67.222.222
 server = /staticflickr.com/208.67.222.222
 server = /static.shemalez.com/208.67.222.222
 server = /steamcommunity.com/208.67.222.222
+server = /steemit.com/208.67.222.222
 server = /steganos.com/208.67.222.222
 server = /stepchina.com/208.67.222.222
 server = /stephaniered.com/208.67.222.222

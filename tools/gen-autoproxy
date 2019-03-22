@@ -26,9 +26,5 @@ echo "# gTLD" >>$FNAME
 output '||' <$NAMESDIR/gtld >>$FNAME
 echo >>$FNAME
 
-echo "# ccTLD" >>$FNAME
-output '||' <$NAMESDIR/cctld >>$FNAME
-echo >>$FNAME
-
 echo "# gfwlist" >>$FNAME
 output '||' <$NAMESDIR/gfwlist >>$FNAME

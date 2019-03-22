@@ -48,6 +48,7 @@ server = /inmobi.com/127.0.0.1#54
 server = /mixpanel.com/127.0.0.1#54
 server = /path.com/127.0.0.1#54
 server = /stackoverflow.com/127.0.0.1#54
+server = /line-apps.com/127.0.0.1#54
 
 # gTLD
 server = /aaa/127.0.0.1#54

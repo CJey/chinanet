@@ -1,7 +1,8 @@
 # China company that use TLD exclude cn
 @@||cjey.me
 @@||cjey.dev
-@@||cisy.me
+@@||idead.org
+@@||ddns.net
 @@||39.net
 @@||51.la
 @@||acfun.tv
@@ -1743,6 +1744,7 @@
 ||app.tutanota.com
 ||aptoide.com
 ||arctosia.com
+||artstation.com
 ||asiansexdiary.com
 ||asianspiss.com
 ||asiatgp.com
@@ -2316,6 +2318,7 @@
 ||frootvpn.com
 ||fsurf.com
 ||fucd.com
+||fulione.com
 ||fullerconsideration.com
 ||fulue.com
 ||funkyimg.com
@@ -2584,6 +2587,7 @@
 ||imagefap.com
 ||imageflea.com
 ||imagevenue.com
+||imgur.com
 ||imkev.com
 ||imlive.com
 ||incloak.com
@@ -3367,6 +3371,7 @@
 ||sobees.com
 ||socialwhale.com
 ||sockscap64.com
+||softfamous.com
 ||softwarebychuck.com
 ||sogclub.com
 ||sohcradio.com

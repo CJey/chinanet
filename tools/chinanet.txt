@@ -4,6 +4,7 @@
 @@||idead.org
 @@||ddns.net
 @@||3322.org
+@@||3322.net
 @@||ntp.org
 @@||39.net
 @@||51.la

@@ -23,12 +23,14 @@
 @@||jb51.net
 @@||jjwxc.net
 @@||kdnet.net
+@@||newsmth.net
 @@||ngacn.cc
 @@||onlinedown.net
 @@||oschina.net
 @@||p5w.net
 @@||panda.tv
 @@||pchome.net
+@@||pinggu.org
 @@||pps.tv
 @@||quanmin.tv
 @@||savefrom.net
@@ -53,6 +55,7 @@
 ||path.com
 ||stackoverflow.com
 ||line-apps.com
+||chess.com
 
 # gTLD
 ||aaa

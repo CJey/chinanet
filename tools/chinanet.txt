@@ -1983,6 +1983,7 @@
 ||chinamule.com
 ||chinanewscenter.com
 ||chinasocialdemocraticparty.com
+||chinatimes.com
 ||chinatopsex.com
 ||chinatweeps.com
 ||chinaview.wordpress.com
@@ -2181,6 +2182,7 @@
 ||eltondisney.com
 ||empfil.com
 ||emulefans.com
+||encyclopedia.com
 ||enewstree.com
 ||entermap.com
 ||entnt.com
@@ -2326,6 +2328,7 @@
 ||fringenetwork.com
 ||frootvpn.com
 ||fsurf.com
+||ftchinese.com
 ||fucd.com
 ||fulione.com
 ||fullerconsideration.com

@@ -4,12 +4,15 @@ _ROOT="$(pwd)" && cd "$(dirname "$0")" && ROOT="$(pwd)"
 
 REPO="$(dirname "$ROOT")"
 GIT=git
-DNS=8.8.8.8
+DNS=auto
 
 cd $REPO
 
+# ip
+$REPO/ips/update-china-ip-list
+
 # domain
-mkdir tmp
+mkdir -p tmp
 fold="$(sha1sum tmp/gfwlist)"
 domains/update-gfwlist
 
@@ -20,14 +23,11 @@ if [ "$fnew" != "$fold" ]; then
     cp domains/gfwlist tmp/gfwlist
 fi
 
-# ip
-$REPO/ips/update-china-ip-list
-
 $GIT status -s | grep -qP '^\s*M\s+'
 if [ $? -eq 0 ]; then
     echo "pushing..."
     $GIT add domains/gfwlist
-    $GIT add tools/dnsmasq-$DNS
+    $GIT add tools/dnsmasq-*
     $GIT add tools/chinanet.txt
     $GIT add ips/chinaip
     $GIT commit -m "Auto Commit at $(date +'%Y-%m-%d %H:%M:%S %Z')"

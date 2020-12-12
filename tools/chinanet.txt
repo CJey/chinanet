@@ -1748,6 +1748,7 @@
 ||api.linksalpha.com
 ||api.proxlet.com
 ||api.pureapk.com
+||apkcombo.com
 ||apkmirror.com
 ||apkplz.com
 ||apkpure.com
@@ -2154,6 +2155,7 @@
 ||dsmtp.com
 ||dtiblog.com
 ||duanzhihu.com
+||dubox.com
 ||duck.com
 ||duckduckgo.com
 ||duckmylife.com
@@ -2400,6 +2402,7 @@
 ||giantessnight.com
 ||gifree.com
 ||girlbanker.com
+||githubassets.com
 ||githubusercontent.com
 ||gjczz.com
 ||global.bing.com
@@ -2624,6 +2627,7 @@
 ||incloak.com
 ||indiemerch.com
 ||inkui.com
+||inoreader.com
 ||insidevoa.com
 ||instagram.com
 ||instanthq.com
@@ -2937,6 +2941,7 @@
 ||mrtweet.com
 ||msguancha.com
 ||mthruf.com
+||mubi.com
 ||muchosucko.com
 ||multiply.com
 ||multiupload.com
@@ -3111,6 +3116,7 @@
 ||panoramio.com
 ||paradisepoker.com
 ||parkansky.com
+||parler.com
 ||parsevideo.com
 ||partycasino.com
 ||partypoker.com
@@ -3211,6 +3217,7 @@
 ||proxydns.com
 ||proxyroad.com
 ||proyectoclubes.com
+||pshvpn.com
 ||psiphon3.com
 ||psiphontoday.com
 ||puffinbrowser.com
@@ -3260,6 +3267,7 @@
 ||realitykings.com
 ||realraptalk.com
 ||realsexpass.com
+||reason.com
 ||reddit.com
 ||redditlist.com
 ||redditmedia.com
@@ -3632,6 +3640,7 @@
 ||tunnelr.com
 ||turbohide.com
 ||turbotwitter.com
+||turkistantimes.com
 ||tushycash.com
 ||tuvpn.com
 ||tvants.com
@@ -3886,6 +3895,7 @@
 ||windscribe.com
 ||wingamestore.com
 ||winning11.com
+||wionews.com
 ||wire.com
 ||wiredbytes.com
 ||wiredpen.com

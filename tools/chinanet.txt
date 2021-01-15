@@ -2135,7 +2135,6 @@
 ||documentingreality.com
 ||dojin.com
 ||dollf.com
-||domainhelp.search.com
 ||dongtaiwang.com
 ||dongyangjing.com
 ||dontmovetochina.com
@@ -2756,6 +2755,7 @@
 ||kurashsultan.com
 ||kurtmunger.com
 ||kusocity.com
+||kwok7.com
 ||kyofun.com
 ||kyoyue.com
 ||kyzyhello.com
@@ -3006,6 +3006,7 @@
 ||news.seehua.com
 ||newstamago.com
 ||newstarnet.com
+||news.ycombinator.com
 ||newyorktimes.com
 ||nexon.com
 ||nextmedia.com
@@ -3063,6 +3064,7 @@
 ||oex.com
 ||offbeatchina.com
 ||officeoftibet.com
+||ohmyrss.com
 ||oiktv.com
 ||oizoblog.com
 ||okayfreedom.com
@@ -3322,8 +3324,8 @@
 ||scmp.com
 ||scribd.com
 ||scriptspot.com
-||seapuff.com
 ||search.aol.com
+||search.com
 ||searchtruth.com
 ||search.yahoo.com
 ||secretchina.com
@@ -3472,6 +3474,7 @@
 ||stoweboyd.com
 ||stranabg.com
 ||straplessdildo.com
+||streamate.com
 ||strikingly.com
 ||strongvpn.com
 ||strongwindpress.com
@@ -3535,6 +3538,7 @@
 ||thedalailamamovie.com
 ||thefacebook.com
 ||thegly.com
+||theguardian.com
 ||thehousenews.com
 ||theinitium.com
 ||thenewslens.com
@@ -3647,6 +3651,7 @@
 ||tvboxnow.com
 ||tv.com
 ||tvider.com
+||tv.jtbc.joins.com
 ||tvplayvideos.com
 ||tvunetworks.com
 ||twaitter.com

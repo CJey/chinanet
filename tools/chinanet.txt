@@ -47,6 +47,14 @@
 @@||zhanqi.tv
 @@||zhibo8.cc
 @@||zimuzu.tv
+@@||tencent-cloud.net
+@@||windows.net
+@@||msedge.net
+@@||battle.net
+@@||appcenter.ms
+@@||live.net
+@@||bing.net
+@@||xiaomi.net
 
 # gfw-extra
 ||githubassets.com
@@ -64,6 +72,7 @@
 ||stackoverflow.com
 ||line-apps.com
 ||chess.com
+||windows.net
 
 # gTLD
 ||aaa

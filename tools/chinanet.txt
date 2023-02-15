@@ -2032,6 +2032,7 @@
 ||china101.com
 ||china21.com
 ||chinaeweekly.com
+||chinafile.com
 ||chinagate.com
 ||chinagonet.com
 ||chinahush.com
@@ -2439,6 +2440,7 @@
 ||gamejolt.com
 ||gamousa.com
 ||ganges.com
+||ganjing.com
 ||ganjingworld.com
 ||gardennetworks.com
 ||gartlive.com
@@ -2587,6 +2589,7 @@
 ||heyuedi.com
 ||heyzo.com
 ||hgseav.com
+||hiccears.com
 ||hideipvpn.com
 ||hidemyass.com
 ||hidemycomp.com
@@ -2650,6 +2653,7 @@
 ||horrorporn.com
 ||hostloc.com
 ||hotair.com
+||hotcoin.com
 ||hotgoo.com
 ||hotpornshow.com
 ||hotshame.com
@@ -2725,6 +2729,7 @@
 ||insidevoa.com
 ||instagram.com
 ||instanthq.com
+||interactivebrokers.com
 ||internetpopculture.com
 ||inthenameofconfuciusmovie.com
 ||investigating.wordpress.com
@@ -2847,6 +2852,7 @@
 ||koornk.com
 ||koranmandarin.com
 ||korenan2.com
+||kraken.com
 ||kspcoin.com
 ||ktzhk.com
 ||kucoin.com
@@ -3111,6 +3117,7 @@
 ||newgrounds.com
 ||newhighlandvision.com
 ||newipnow.com
+||newmitbbs.com
 ||newsancai.com
 ||news.cnyes.com
 ||newsdh.com
@@ -3212,6 +3219,7 @@
 ||onthehunt.com
 ||ontrac.com
 ||oopsforum.com
+||openai.com
 ||openallweb.com
 ||openwebster.com
 ||opml.radiotime.com
@@ -3459,6 +3467,7 @@
 ||safervpn.com
 ||saintyculture.com
 ||sakuralive.com
+||sankakucomplex.com
 ||sankei.com
 ||saveliuxiaobo.com
 ||savemedia.com
@@ -3730,6 +3739,7 @@
 ||thinkwithgoogle.com
 ||thisav.com
 ||thongdreams.com
+||threadreaderapp.com
 ||threatchaos.com
 ||throughnightsfire.com
 ||thumbzilla.com
@@ -4057,6 +4067,7 @@
 ||wearn.com
 ||webfreer.com
 ||weblagu.com
+||webpkgcache.com
 ||website.informer.com
 ||webworkerdaily.com
 ||wechatlawsuit.com
@@ -4193,6 +4204,7 @@
 ||yizhihongxing.com
 ||yobt.com
 ||yolasite.com
+||you.com
 ||youdontcare.com
 ||youjizz.com
 ||youmaker.com

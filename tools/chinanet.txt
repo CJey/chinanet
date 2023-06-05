@@ -50,7 +50,6 @@
 @@||tencent-cloud.net
 @@||windows.net
 @@||msedge.net
-@@||battle.net
 @@||appcenter.ms
 @@||live.net
 @@||bing.net
@@ -1747,6 +1746,7 @@
 ||andygod.com
 ||aniscartujo.com
 ||anobii.com
+||anonfiles.com
 ||anontext.com
 ||anonymitynetwork.com
 ||anonymizer.com
@@ -2675,6 +2675,7 @@
 ||huangyiyu.com
 ||huaren4us.com
 ||huashangnews.com
+||hub.docker.com
 ||huhaitai.com
 ||huhamhire.com
 ||huhangfei.com
@@ -2756,6 +2757,7 @@
 ||isuntv.com
 ||itasoftware.com
 ||itemdb.com
+||itemfix.com
 ||itsaol.com
 ||itshidden.com
 ||iu45.com
@@ -2873,6 +2875,7 @@
 ||larsgeorge.com
 ||lastcombat.com
 ||latelinenews.com
+||ledger.com
 ||lefora.com
 ||legalporno.com
 ||legaltech.law.com
@@ -3202,6 +3205,7 @@
 ||okex.com
 ||okx.com
 ||old.nabble.com
+||olehdtv.com
 ||olevod.com
 ||olumpo.com
 ||omgili.com
@@ -3313,6 +3317,7 @@
 ||po2b.com
 ||podbean.com
 ||podictionary.com
+||poe.com
 ||pokerstars.com
 ||poloniex.com
 ||polymerhk.com

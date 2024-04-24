@@ -1781,6 +1781,7 @@
 ||app.evozi.com
 ||app.heywire.com
 ||appledaily.com
+||apps.evozi.com
 ||appshopper.com
 ||app.smartmailcloud.com
 ||appspot.com
@@ -1984,6 +1985,7 @@
 ||cafepress.com
 ||caijinglengyan.com
 ||calebelston.com
+||calendarz.com
 ||calgarychinese.com
 ||cam4.com
 ||camfrog.com
@@ -2009,6 +2011,7 @@
 ||cdn1.lp.saboom.com
 ||cdn.assets.lfpcontent.com
 ||cdninstagram.com
+||cdn.jwplayer.com
 ||cdn.printfriendly.com
 ||cdn.seatguru.com
 ||cdw.com
@@ -2065,11 +2068,13 @@
 ||ch.shvoong.com
 ||chubold.com
 ||chubun.com
+||ciciai.com
 ||cienen.com
 ||cirosantilli.com
 ||citizencn.com
 ||city9x.com
 ||civiliangunner.com
+||civitai.com
 ||ck101.com
 ||clearsurance.com
 ||cloakpoint.com
@@ -2108,6 +2113,7 @@
 ||compileheart.com
 ||contests.twilio.com
 ||coobay.com
+||cool18.com
 ||coolaler.com
 ||coolder.com
 ||coolncute.com
@@ -2116,6 +2122,7 @@
 ||costco.com
 ||cotweet.com
 ||coursehero.com
+||coze.com
 ||crackle.com
 ||crazyshit.com
 ||crbug.com
@@ -2300,6 +2307,7 @@
 ||eyny.com
 ||ezpeer.com
 ||ezua.com
+||f2pool.com
 ||f8.com
 ||facebook.com
 ||facebookmail.com
@@ -2494,6 +2502,7 @@
 ||gmodules.com
 ||go141.com
 ||goagentplus.com
+||godaddy.com
 ||godsimmediatecontact.com
 ||gofundme.com
 ||gogotunnel.com
@@ -2546,6 +2555,7 @@
 ||gotrusted.com
 ||grammaly.com
 ||gravatar.com
+||grindr.com
 ||gsp.target.com
 ||gstatic.com
 ||gtricks.com
@@ -2676,6 +2686,8 @@
 ||huaren4us.com
 ||huashangnews.com
 ||hub.docker.com
+||huffingtonpost.com
+||huffpost.com
 ||huhaitai.com
 ||huhamhire.com
 ||huhangfei.com
@@ -2718,6 +2730,7 @@
 ||imagefap.com
 ||imageflea.com
 ||imagevenue.com
+||imgasd.com
 ||imgur.com
 ||imkev.com
 ||imlive.com
@@ -2961,6 +2974,7 @@
 ||matainja.com
 ||matsushimakaede.com
 ||matthewdgreen.wordpress.com
+||maturejp.com
 ||mayimayi.com
 ||mcadforums.com
 ||mcfog.com
@@ -3680,6 +3694,7 @@
 ||svsfx.com
 ||swagbucks.com
 ||sydneytoday.com
+||s.yimg.com
 ||syncback.com
 ||synergyse.com
 ||t35.com
@@ -3710,6 +3725,7 @@
 ||telecomspace.com
 ||telegramdownload.com
 ||tenacy.com
+||tenor.com
 ||tenzinpalmo.com
 ||terabox.com
 ||tfiflve.com
@@ -4121,6 +4137,7 @@
 ||witnessleeteaching.com
 ||wlcnew.jigsy.com
 ||wnacg.com
+||wn.com
 ||wo3ttt.wordpress.com
 ||woeser.com
 ||wolfax.com
@@ -4238,6 +4255,7 @@
 ||yzzk.com
 ||zacebook.com
 ||zalmos.com
+||zamimg.com
 ||zannel.com
 ||zaobao.com
 ||zaozon.com

@@ -74,6 +74,7 @@
 ||windows.net
 ||sparklabs.com
 ||chatgpt.com
+||docker.com
 
 # gTLD
 ||aaa
@@ -2023,6 +2024,7 @@
 ||channelnewsasia.com
 ||chaoex.com
 ||chapm25.com
+||chatgpt.com
 ||chatnook.com
 ||chaturbate.com
 ||checkgfw.com
@@ -2901,6 +2903,7 @@
 ||lflink.com
 ||lflinkup.com
 ||liangzhichuanmei.com
+||libertysculpturepark.com
 ||lifemiles.com
 ||lightyearvpn.com
 ||lihkg.com
@@ -2924,7 +2927,6 @@
 ||liuxiaotong.com
 ||liveleak.com
 ||livemint.com
-||livestation.com
 ||livestream.com
 ||livevideo.com
 ||livingstream.com
@@ -3316,6 +3318,7 @@
 ||pinterest.com
 ||piposay.com
 ||piring.com
+||pixeldrain.com
 ||pixelqi.com
 ||pk.com
 ||placemix.com
@@ -3702,6 +3705,7 @@
 ||t66y.com
 ||tagwalk.com
 ||taipeitimes.com
+||taisounds.com
 ||taiwanbible.com
 ||taiwancon.com
 ||taiwanjustice.com
@@ -4155,6 +4159,7 @@
 ||wp.com
 ||wpoforum.com
 ||writer.zoho.com
+||writesonic.com
 ||wsj.com
 ||wsjhk.com
 ||wtfpeople.com
@@ -4172,6 +4177,7 @@
 ||xbabe.com
 ||xbookcn.com
 ||xbtce.com
+||x.com
 ||xcritic.com
 ||xerotica.com
 ||xfinity.com
@@ -4223,7 +4229,6 @@
 ||yilubbs.com
 ||yingsuoss.com
 ||yipub.com
-||yiyechat.com
 ||yizhihongxing.com
 ||yobt.com
 ||yolasite.com
@@ -4250,7 +4255,6 @@
 ||youwin.com
 ||ytimg.com
 ||yulghun.com
-||yuntipub.com
 ||yuvutu.com
 ||yvesgeleyn.com
 ||yzzk.com

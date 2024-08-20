@@ -75,6 +75,7 @@
 ||sparklabs.com
 ||chatgpt.com
 ||docker.com
+||stripecdn.com
 
 # gTLD
 ||aaa
@@ -1754,6 +1755,7 @@
 ||anonymizer.com
 ||anpopo.com
 ||anthonycalzadilla.com
+||anthropic.com
 ||anti1984.com
 ||antichristendom.com
 ||anyporn.com
@@ -1820,6 +1822,7 @@
 ||axios.com
 ||axureformac.com
 ||azerimix.com
+||azirevpn.com
 ||b0ne.com
 ||babylonbee.com
 ||backchina.com
@@ -1923,6 +1926,7 @@
 ||blubrry.com
 ||blueangellive.com
 ||bmfinn.com
+||bnbstatic.com
 ||bnrmetal.com
 ||boardreader.com
 ||bodog88.com
@@ -2083,6 +2087,7 @@
 ||cloakpoint.com
 ||club1069.com
 ||clubhouseapi.com
+||cmegroup.com
 ||cmule.com
 ||cn2.streetvoice.com
 ||cnabc.com
@@ -3789,6 +3794,7 @@
 ||tibetsociety.com
 ||tibetsun.com
 ||tibettelegraph.com
+||tibettruth.com
 ||tigervpn.com
 ||tiktok.com
 ||tiltbrush.com
@@ -3972,6 +3978,7 @@
 ||urlborg.com
 ||urlparser.com
 ||usacn.com
+||uscardforum.com
 ||userapi.nytlog.com
 ||ushuarencity.echainhost.com
 ||usocctn.com

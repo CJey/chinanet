@@ -54,6 +54,8 @@
 @@||live.net
 @@||bing.net
 @@||xiaomi.net
+@@||steamserver.net
+@@||akamaihd.net
 
 # gfw-extra
 ||githubassets.com

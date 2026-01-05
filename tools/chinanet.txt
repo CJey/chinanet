@@ -54,6 +54,7 @@
 @@||live.net
 @@||bing.net
 @@||xiaomi.net
+@@||tmall.hk
 @@||steamserver.net
 @@||akamaihd.net
 
@@ -1693,6 +1694,7 @@
 ||abebooks.com
 ||ablwang.com
 ||aboluowang.com
+||about.gitlab.com
 ||abplive.com
 ||acast.com
 ||accountkit.com
@@ -1766,15 +1768,18 @@
 ||anthropic.com
 ||antichristendom.com
 ||antpool.com
+||anuneko.com
 ||anyporn.com
 ||anysex.com
 ||aofriend.com
 ||aolnews.com
 ||aomiwang.com
+||aoxvpn.com
 ||apartmentratings.com
 ||apartments.com
 ||apetube.com
 ||apigee.com
+||api.palworldgame.com
 ||api.pureapk.com
 ||api.steampowered.com
 ||apkcombo.com
@@ -1796,6 +1801,7 @@
 ||arctosia.com
 ||artstation.com
 ||asianage.com
+||asianfanfics.com
 ||asiansexdiary.com
 ||asiaone.com
 ||asiatgp.com
@@ -1887,9 +1893,11 @@
 ||biliworld.com
 ||binance.com
 ||bing.com
+||bitbaby.com
 ||bitchute.com
 ||bitcoinworld.com
 ||bitfinex.com
+||bitget.com
 ||bithumb.com
 ||bitmex.com
 ||bitshare.com
@@ -1959,6 +1967,7 @@
 ||broadbook.com
 ||broadpressinc.com
 ||brutaltgp.com
+||bt4gprx.com
 ||bt95.com
 ||btaia.com
 ||btbtav.com
@@ -1997,6 +2006,7 @@
 ||cams.com
 ||canadameet.com
 ||canalporno.com
+||canva.com
 ||caochangqing.com
 ||carabinasypistolas.com
 ||carfax.com
@@ -2026,8 +2036,10 @@
 ||changp.com
 ||channelnewsasia.com
 ||chaoex.com
+||chat.com
 ||chatgpt.com
 ||chatnook.com
+||chatpdf.com
 ||chaturbate.com
 ||checkgfw.com
 ||chengmingmag.com
@@ -2077,6 +2089,7 @@
 ||civitai.com
 ||ck101.com
 ||clearsurance.com
+||cloudflarestatus.com
 ||club1069.com
 ||clubhouseapi.com
 ||cmegroup.com
@@ -2135,6 +2148,7 @@
 ||cruxpool.com
 ||csdparty.com
 ||csmonitor.com
+||ctinets.com
 ||ctinews.com
 ||ctwant.com
 ||cumlouder.com
@@ -2162,6 +2176,7 @@
 ||darrenliuwei.com
 ||dashlane.com
 ||dawangidc.com
+||dazn.com
 ||dbgjd.com
 ||dcmilitary.com
 ||deadline.com
@@ -2198,6 +2213,7 @@
 ||dnset.com
 ||dnsrd.com
 ||docker.com
+||dockerstatus.com
 ||documentingreality.com
 ||dojin.com
 ||dongtaiwang.com
@@ -2341,6 +2357,7 @@
 ||fc2cn.com
 ||fc2.com
 ||feedburner.com
+||feedly.com
 ||feelssh.com
 ||feer.com
 ||feixiaohao.com
@@ -2351,6 +2368,7 @@
 ||ffvpn.com
 ||figprayer.com
 ||fileflyer.com
+||files.oaiusercontent.com
 ||filesor.com
 ||filthdump.com
 ||financetwitter.com
@@ -2364,12 +2382,14 @@
 ||firstrade.com
 ||fleshbot.com
 ||fleursdeslettres.com
+||flexclip.com
 ||flickr.com
 ||flickriver.com
 ||fling.com
 ||flipboard.com
 ||flipkart.com
 ||flitto.com
+||flowgpt.com
 ||flyvpn.com
 ||flyzy2005.com
 ||fnac.com
@@ -2416,6 +2436,7 @@
 ||ft.com
 ||ftx.com
 ||fucd.com
+||fuckccp.com
 ||fulione.com
 ||fullerconsideration.com
 ||fullservicegame.com
@@ -2423,6 +2444,7 @@
 ||funp.com
 ||fuq.com
 ||furinkan.com
+||furrybar.com
 ||fux.com
 ||fxnetworks.com
 ||g6hentai.com
@@ -2467,6 +2489,7 @@
 ||gettrials.com
 ||getuploader.com
 ||gfsale.com
+||gfwbao.com
 ||ggpht.com
 ||ggssl.com
 ||ghostpath.com
@@ -2534,6 +2557,7 @@
 ||gotrusted.com
 ||grammaly.com
 ||gravatar.com
+||greatfirevpn.com
 ||grindr.com
 ||grok.com
 ||gsp.target.com
@@ -2560,6 +2584,7 @@
 ||have8.com
 ||hbg.com
 ||hbo.com
+||hbomax.com
 ||hclips.com
 ||hdzog.com
 ||heartyit.com
@@ -2569,10 +2594,12 @@
 ||helpeachpeople.com
 ||hentaivideoworld.com
 ||herokuapp.com
+||herominers.com
 ||hexieshe.com
 ||heyuedi.com
 ||heyzo.com
 ||hgseav.com
+||hicairo.com
 ||hiccears.com
 ||hideipvpn.com
 ||hidemyass.com
@@ -2660,6 +2687,7 @@
 ||huobipro.com
 ||hurgokbayrak.com
 ||huyandex.com
+||hyperbeam.com
 ||hyperrate.com
 ||i818hk.com
 ||iamtopone.com
@@ -2668,6 +2696,7 @@
 ||icams.com
 ||ice.audionow.com
 ||icoco.com
+||idcflare.com
 ||id.heroku.com
 ||idiomconnection.com
 ||idouga.com
@@ -2727,6 +2756,7 @@
 ||itasoftware.com
 ||itemdb.com
 ||itemfix.com
+||itiger.com
 ||itsaol.com
 ||itshidden.com
 ||iu45.com
@@ -2760,7 +2790,6 @@
 ||jgoodies.com
 ||jiangweiping.com
 ||jiaoyou8.com
-||jichangtj.com
 ||jieshibaobao.com
 ||jifangge.com
 ||jigglegifs.com
@@ -2924,6 +2953,7 @@
 ||mcadforums.com
 ||mcfog.com
 ||mcreasite.com
+||mcusercontent.com
 ||meansys.com
 ||mediachinese.com
 ||mediafreakcity.com
@@ -3051,9 +3081,11 @@
 ||nationalreview.com
 ||nationwide.com
 ||naughtyamerica.com
+||naver.com
 ||naweeklytimes.com
 ||nbcnews.com
 ||nbtvpn.com
+||nephobox.com
 ||netbirds.com
 ||netcolony.com
 ||netflav.com
@@ -3097,7 +3129,6 @@
 ||nintendium.com
 ||niusnews.com
 ||nlfreevpn.com
-||nodeloc.com
 ||nodeseek.com
 ||nokola.com
 ||noodlevpn.com
@@ -3137,6 +3168,7 @@
 ||occupytiananmen.com
 ||ocreampies.com
 ||ocry.com
+||octocaptcha.com
 ||oculuscdn.com
 ||oculus.com
 ||odysee.com
@@ -3232,12 +3264,14 @@
 ||picacomiccn.com
 ||picacomic.com
 ||picasaweb.com
+||picsart.com
 ||picturesocial.com
 ||picuki.com
 ||pigav.com
 ||pin6.com
 ||pinimg.com
 ||pinkrod.com
+||pinterest.com
 ||piring.com
 ||pixeldrain.com
 ||pixelqi.com
@@ -3345,6 +3379,7 @@
 ||quranexplorer.com
 ||qz.com
 ||r18.com
+||radiojar.com
 ||radiovncr.com
 ||raggedbanner.com
 ||rapidmoviez.com
@@ -3402,6 +3437,7 @@
 ||rumble.com
 ||runbtx.com
 ||rushbee.com
+||rustdesk.com
 ||rusvpn.com
 ||s1s1s1.com
 ||sacks.com
@@ -3526,6 +3562,7 @@
 ||somee.com
 ||songjianjun.com
 ||sopcast.com
+||sora.com
 ||sosreader.com
 ||soubory.com
 ||soundcloud.com
@@ -3562,8 +3599,10 @@
 ||startuplivingchina.com
 ||static01.nyt.com
 ||staticflickr.com
+||static.pocketcasts.com
 ||static.shemalez.com
 ||steamcommunity.com
+||steamladder.com
 ||steamstatic.com
 ||steemit.com
 ||steganos.com
@@ -3629,6 +3668,7 @@
 ||taiwannation.com
 ||taiwanyes.ning.com
 ||talk853.com
+||talkatone.com
 ||talkboxapp.com
 ||talkcc.com
 ||tapanwap.com
@@ -3642,10 +3682,12 @@
 ||telecomspace.com
 ||telegramdownload.com
 ||tellapart.com
+||temu.com
 ||tenacy.com
 ||tenor.com
 ||tenzinpalmo.com
 ||terabox.com
+||terobox.com
 ||textnow.com
 ||tfiflve.com
 ||thaicn.com
@@ -3746,6 +3788,7 @@
 ||tradingview.com
 ||trendsmap.com
 ||trulyergonomic.com
+||trustwallet.com
 ||truthsocial.com
 ||truveo.com
 ||tsemtulku.com
@@ -3858,6 +3901,7 @@
 ||unix100.com
 ||unmineable.com
 ||unodedos.com
+||upbit.com
 ||updates.tdesktop.com
 ||upghsbc.com
 ||upornia.com
@@ -3904,6 +3948,7 @@
 ||videopress.com
 ||vietdaikynguyen.com
 ||vilavpn.com
+||vimeocdn.com
 ||vimeo.com
 ||vincnd.com
 ||vinniev.com
@@ -4019,6 +4064,7 @@
 ||wikaba.com
 ||wiki.jqueryui.com
 ||wikileaks.com
+||wikipedia.com
 ||wiki.phonegap.com
 ||wikiwand.com
 ||williamhill.com
@@ -4066,6 +4112,7 @@
 ||xbabe.com
 ||xbookcn.com
 ||xbtce.com
+||xcancel.com
 ||x.com
 ||xcritic.com
 ||xerotica.com
@@ -4146,6 +4193,7 @@
 ||zacebook.com
 ||zalmos.com
 ||zamimg.com
+||zaochenbao.com
 ||zattoo.com
 ||zb.com
 ||zello.com

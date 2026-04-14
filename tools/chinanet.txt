@@ -82,6 +82,7 @@
 ||oaiusercontent.com
 ||cloudcone.com
 ||tailscale.com
+||intercomassets.com
 
 # gTLD
 ||aaa
@@ -1969,6 +1970,7 @@
 ||coursehero.com
 ||coze.com
 ||crackle.com
+||crashlytics.com
 ||crazyshit.com
 ||crbug.com
 ||creativelab5.com
@@ -2296,7 +2298,6 @@
 ||hitbtc.com
 ||hk01.com
 ||hka8964.wordpress.com
-||hkacg.com
 ||hkanews.wordpress.com
 ||hkbookcity.com
 ||hkchronicles.com
@@ -2517,7 +2518,6 @@
 ||mediachinese.com
 ||mediafreakcity.com
 ||medium.com
-||meetup.com
 ||megaproxy.com
 ||megurineluka.com
 ||memehk.com
@@ -2575,7 +2575,6 @@
 ||multiply.com
 ||musixmatch.com
 ||muzi.com
-||mx981.com
 ||myaudiocast.com
 ||mybet.com
 ||mychinanews.com
@@ -2920,7 +2919,6 @@
 ||springboardplatform.com
 ||sproutcore.com
 ||squirrelvpn.com
-||s.rmimg.com
 ||ss7.vzw.com
 ||ssrshare.com
 ||ssrtool.com
@@ -2976,7 +2974,6 @@
 ||tapanwap.com
 ||tapatalk.com
 ||taweet.com
-||techspot.com
 ||teddysun.com
 ||tehrantimes.com
 ||telegramdownload.com

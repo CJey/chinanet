@@ -1630,6 +1630,7 @@
 ||1point3acres.com
 ||2021hkcharter.com
 ||233abc.com
+||24hbook.com
 ||32red.com
 ||36rain.com
 ||404museum.com
@@ -1780,6 +1781,7 @@
 ||beevpn.com
 ||beijing1989.com
 ||beijingspring.com
+||bellingcat.com
 ||berlintwitterwall.com
 ||bestvpnanalysis.com
 ||bestvpn.com
@@ -1809,6 +1811,7 @@
 ||blacked.com
 ||blackmagicdesign.com
 ||blackvpn.com
+||bleepingcomputer.com
 ||blinkx.com
 ||blockcn.com
 ||blockedbyhk.com
@@ -1836,6 +1839,7 @@
 ||boardreader.com
 ||boobstagram.com
 ||bookdepository.com
+||boomplay.com
 ||bootstrapcdn.com
 ||borgenmagazine.com
 ||botanwang.com
@@ -1941,6 +1945,7 @@
 ||c.mi.com
 ||cmule.com
 ||cnbbnews.wordpress.com
+||cnbc.com
 ||cnnews.chosun.com
 ||cn.sandscotaicentral.com
 ||cn.uptodown.com
@@ -1985,6 +1990,7 @@
 ||csmonitor.com
 ||ctinets.com
 ||ctinews.com
+||ctinsider.com
 ||ctwant.com
 ||cumlouder.com
 ||curvefish.com
@@ -1997,6 +2003,7 @@
 ||dalailamaworld.com
 ||darrenliuwei.com
 ||dashlane.com
+||data18.com
 ||dawangidc.com
 ||dazn.com
 ||dbgjd.com
@@ -2040,6 +2047,7 @@
 ||dropboxapi.com
 ||dropbox.com
 ||dropboxusercontent.com
+||dt18.com
 ||dtiblog.com
 ||dubox.com
 ||duck.com
@@ -2436,6 +2444,7 @@
 ||kanshifang.com
 ||kaotic.com
 ||karayou.com
+||kathmandupost.com
 ||kawase.com
 ||kb.monitorware.com
 ||kebrum.com
@@ -2574,6 +2583,7 @@
 ||mthruf.com
 ||mubi.com
 ||multiply.com
+||music.amazon.com
 ||musixmatch.com
 ||muzi.com
 ||myaudiocast.com
@@ -2612,6 +2622,7 @@
 ||news.seehua.com
 ||newstamago.com
 ||newstatesman.com
+||newstimes.com
 ||newsweek.com
 ||news.ycombinator.com
 ||newthuhole.com
@@ -2619,6 +2630,7 @@
 ||nexon.com
 ||nflxext.com
 ||nflximg.com
+||nfscofficial.com
 ||nikkei.com
 ||niusnews.com
 ||nlfreevpn.com
@@ -2679,6 +2691,7 @@
 ||osfoora.com
 ||otcbtc.com
 ||ourdearamy.com
+||overdrive.com
 ||oversea.istarshine.com
 ||ovpn.com
 ||owltail.com
@@ -2796,6 +2809,7 @@
 ||rawgit.com
 ||raw.githack.com
 ||rawgithub.com
+||rawstory.com
 ||rcam.target.com
 ||rd.com
 ||reabble.com
@@ -2803,6 +2817,7 @@
 ||readmoo.com
 ||realitykings.com
 ||reason.com
+||recordedfuture.com
 ||redbubble.com
 ||reddit.com
 ||reddithelp.com
@@ -2819,6 +2834,7 @@
 ||reuters.com
 ||rixcloud.com
 ||rlwlw.com
+||roblox.com
 ||robustnessiskey.com
 ||rojo.com
 ||ronjoneswriter.com
@@ -2835,9 +2851,6 @@
 ||sakuralive.com
 ||sankakucomplex.com
 ||sankei.com
-||scache1.vzw.com
-||scache2.vzw.com
-||scache.vzw.com
 ||scmp.com
 ||scribd.com
 ||scriptspot.com
@@ -2899,6 +2912,7 @@
 ||songjianjun.com
 ||sora.com
 ||sosreader.com
+||sotwe.com
 ||soundcloud.com
 ||southpark.cc.com
 ||spaces.hightail.com
@@ -2920,7 +2934,6 @@
 ||springboardplatform.com
 ||sproutcore.com
 ||squirrelvpn.com
-||ss7.vzw.com
 ||ssrshare.com
 ||ssrtool.com
 ||starp2p.com
@@ -2975,6 +2988,7 @@
 ||tapanwap.com
 ||tapatalk.com
 ||taweet.com
+||techbang.com
 ||teddysun.com
 ||tehrantimes.com
 ||telegramdownload.com
@@ -2986,6 +3000,7 @@
 ||terobox.com
 ||textnow.com
 ||tfiflve.com
+||tgstat.com
 ||theatlantic.com
 ||thebcomplex.com
 ||theblaze.com
@@ -3005,6 +3020,7 @@
 ||thestandnews.com
 ||thetibetpost.com
 ||thetvdb.com
+||theweek.com
 ||thewirechina.com
 ||thinkgeek.com
 ||thinkingtaiwan.com
@@ -3072,6 +3088,7 @@
 ||tuvpn.com
 ||tvbanywhere.com
 ||tvboxnow.com
+||tvdy1.com
 ||tv.jtbc.joins.com
 ||tvunetworks.com
 ||twapperkeeper.com
@@ -3121,6 +3138,7 @@
 ||upbit.com
 ||updates.tdesktop.com
 ||upghsbc.com
+||upsangel.com
 ||uptodown.com
 ||urbandictionary.com
 ||urbansurvival.com
@@ -3172,6 +3190,7 @@
 ||voatibetanenglish.com
 ||vocaroo.com
 ||vod.wwe.com
+||vox.com
 ||voxer.com
 ||vpl.bibliocommons.com
 ||vpn4all.com
@@ -3253,6 +3272,7 @@
 ||wolfax.com
 ||woolyss.com
 ||workatruna.com
+||worldjournal.com
 ||wowgirls.com
 ||wowhead.com
 ||wowporn.com

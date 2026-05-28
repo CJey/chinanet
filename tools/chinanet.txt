@@ -84,6 +84,7 @@
 ||cloudcone.com
 ||tailscale.com
 ||intercomassets.com
+||vircs.com
 
 # gTLD
 ||aaa

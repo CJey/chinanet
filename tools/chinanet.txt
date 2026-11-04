@@ -85,6 +85,9 @@
 ||tailscale.com
 ||intercomassets.com
 ||vircs.com
+||api.hdvip0.com
+||api.hdvip3.com
+||api.hdvip4.com
 
 # gTLD
 ||aaa
@@ -1621,6 +1624,7 @@
 # gfwlist
 ||000webhost.com
 ||10musume.com
+||123av.com
 ||12bet.com
 ||12vpn.com
 ||141jj.com
@@ -1648,6 +1652,7 @@
 ||6parker.com
 ||6parknews.com
 ||7capture.com
+||7x24hrs.com
 ||881903.com
 ||8964museum.com
 ||91dasai.com
@@ -1657,12 +1662,14 @@
 ||9bis.com
 ||9cache.com
 ||9gag.com
+||9oju31.launches.appsflyersdk.com
 ||aave.com
 ||abebooks.com
 ||aboluowang.com
 ||about.gitlab.com
 ||abplive.com
 ||acast.com
+||accountboy.com
 ||accountkit.com
 ||acevpn.com
 ||acgkj.com
@@ -1710,6 +1717,7 @@
 ||anobii.com
 ||anonfiles.com
 ||anthonycalzadilla.com
+||anthropic.auth0.com
 ||anthropic.com
 ||antpool.com
 ||anuneko.com
@@ -1719,8 +1727,10 @@
 ||apartmentratings.com
 ||apartments.com
 ||apigee.com
+||api.moomoobull.com
 ||api.palworldgame.com
 ||api.pureapk.com
+||api.shuaiapi.com
 ||api.steampowered.com
 ||apkcombo.com
 ||apkmirror.com
@@ -1751,7 +1761,6 @@
 ||atlanta168.com
 ||atnext.com
 ||audacy.com
-||auntology.fandom.com
 ||autodraw.com
 ||avg.com
 ||avgle.com
@@ -1769,6 +1778,7 @@
 ||bangyoulater.com
 ||bankmobilevibe.com
 ||banorte.com
+||basemaps.arcgis.com
 ||bastillepost.com
 ||bbcchinese.com
 ||bbc.com
@@ -1797,6 +1807,7 @@
 ||bibox.com
 ||bigjapanesesex.com
 ||bigone.com
+||bilinovel.com
 ||binance.com
 ||bing.com
 ||bitbaby.com
@@ -1937,7 +1948,10 @@
 ||citizencn.com
 ||civitai.com
 ||ck101.com
+||clashyun.com
 ||claude.com
+||claudemcpcontent.com
+||claudeusercontent.com
 ||clearsurance.com
 ||cloudflarestatus.com
 ||club1069.com
@@ -1946,10 +1960,8 @@
 ||c.mi.com
 ||cmule.com
 ||cnbbnews.wordpress.com
-||cnbc.com
 ||cnnews.chosun.com
 ||cn.sandscotaicentral.com
-||cn.uptodown.com
 ||cobinhood.com
 ||coinbase.com
 ||coinbene.com
@@ -1980,6 +1992,7 @@
 ||crashlytics.com
 ||crazyshit.com
 ||crbug.com
+||creader.com
 ||creativelab5.com
 ||cristyli.com
 ||croxyproxy.com
@@ -2027,6 +2040,7 @@
 ||disk.yandex.com
 ||disneyplus.com
 ||disqus.com
+||divdyn.com
 ||dizhuzhishang.com
 ||dlsite.com
 ||dlyoutube.com
@@ -2086,6 +2100,7 @@
 ||erodoujinworld.com
 ||eromangadouzin.com
 ||esg.t91y.com
+||esim.redteago.com
 ||eslite.com
 ||esurance.com
 ||etherdelta.com
@@ -2100,6 +2115,8 @@
 ||expatshield.com
 ||expecthim.com
 ||expekt.com
+||experience.arcgis.com
+||expressnews.com
 ||expressvpn.com
 ||extmatrix.com
 ||eyny.com
@@ -2112,6 +2129,7 @@
 ||fallenark.com
 ||falsefire.com
 ||famunion.com
+||fandom.com
 ||fangeqiang.com
 ||fanhaolou.com
 ||fanqiangdang.com
@@ -2182,6 +2200,33 @@
 ||funkyimg.com
 ||furinkan.com
 ||furrybar.com
+||futu0.com
+||futu1.com
+||futu2.com
+||futu3.com
+||futu4.com
+||futu5.com
+||futu6.com
+||futu7.com
+||futu8.com
+||futu9.com
+||futuau.com
+||futuchain.com
+||futu.com
+||futuesop.com
+||futufin.com
+||futuhk2.com
+||futuhkapp.com
+||futuhk.com
+||futuhn.com
+||futuholdings.com
+||futuinc.com
+||futuniuniu.com
+||futunn.com
+||futustatic.com
+||fututrade.com
+||fututrustee.com
+||fuyin116.com
 ||fxnetworks.com
 ||gab.com
 ||gabocorp.com
@@ -2192,14 +2237,17 @@
 ||ganjingworld.com
 ||gartlive.com
 ||gatecoin.com
+||gate.com
 ||gather.com
 ||gazotube.com
 ||gclubs.com
 ||gcmasia.com
 ||gekikame.com
+||gencraft.com
 ||genius.com
 ||getastrill.com
 ||getcloak.com
+||get.dappcdn.com
 ||getgom.com
 ||getmalus.com
 ||getsync.com
@@ -2279,6 +2327,7 @@
 ||gvt3.com
 ||haijiao.com
 ||haiwaikan.com
+||hanime1.com
 ||hardsextube.com
 ||hautelookcdn.com
 ||hautelook.com
@@ -2298,6 +2347,7 @@
 ||heyuedi.com
 ||hicairo.com
 ||hiccears.com
+||hiddify.com
 ||hideipvpn.com
 ||hidemyass.com
 ||hidemycomp.com
@@ -2313,6 +2363,7 @@
 ||hkchronicles.com
 ||hkcnews.com
 ||hkcoc.com
+||hkej.com
 ||hket.com
 ||hkfaa.com
 ||hkgalden.com
@@ -2327,7 +2378,6 @@
 ||hnjhj.com
 ||hola.com
 ||homedepot.com
-||hongkong.fandom.com
 ||hongkongfp.com
 ||hootsuite.com
 ||hoovers.com
@@ -2411,6 +2461,7 @@
 ||itasoftware.com
 ||itemfix.com
 ||itiger.com
+||itigerup.com
 ||itshidden.com
 ||ivacy.com
 ||ivonblog.com
@@ -2420,6 +2471,7 @@
 ||japanhdv.com
 ||jav321.com
 ||javbus.com
+||javchu.com
 ||javdb.com
 ||javhuge.com
 ||javlibrary.com
@@ -2445,6 +2497,7 @@
 ||kanshifang.com
 ||kaotic.com
 ||karayou.com
+||kards.com
 ||kathmandupost.com
 ||kawase.com
 ||kb.monitorware.com
@@ -2454,6 +2507,7 @@
 ||kepard.com
 ||kex.com
 ||keycdn.com
+||kfor.com
 ||kik.com
 ||killwall.com
 ||kindle4rss.com
@@ -2474,7 +2528,10 @@
 ||kzaobao.com
 ||lagranepoca.com
 ||lamayeshe.com
+||laohu8.com
 ||larsgeorge.com
+||lbctrl.com
+||lbkrs.com
 ||ledger.com
 ||leisurepro.com
 ||lenwhite.com
@@ -2497,10 +2554,15 @@
 ||livemint.com
 ||livestream.com
 ||livevideo.com
+||livingatlas.arcgis.com
 ||livingstream.com
 ||localbitcoins.com
 ||lockestek.com
 ||login.target.com
+||longbridgeapp.com
+||longbridge.com
+||longbridgehk.com
+||longportapp.com
 ||longtoes.com
 ||lookpic.com
 ||lovetvshow.com
@@ -2524,6 +2586,7 @@
 ||matainja.com
 ||matthewdgreen.wordpress.com
 ||mcadforums.com
+||mceindex.com
 ||mcusercontent.com
 ||meansys.com
 ||mediachinese.com
@@ -2537,6 +2600,7 @@
 ||mergersandinquisitions.com
 ||meripet.com
 ||messenger.com
+||metaaivm.com
 ||meta.com
 ||metafilter.com
 ||metart.com
@@ -2558,6 +2622,7 @@
 ||mingpaonews.com
 ||mingshengbao.com
 ||miningpoolhub.com
+||minkch.com
 ||miroguide.com
 ||mirrorbooks.com
 ||missav.com
@@ -2573,6 +2638,9 @@
 ||moneydj.com
 ||monster.com
 ||moodyz.com
+||moomoo.com
+||moomooequity.com
+||moomootrustee.com
 ||moonbbs.com
 ||moonbingo.com
 ||moviefap.com
@@ -2604,6 +2672,7 @@
 ||nanyang.com
 ||nanyangpost.com
 ||nationalreview.com
+||nationthailand.com
 ||nationwide.com
 ||naughtyamerica.com
 ||naver.com
@@ -2634,6 +2703,8 @@
 ||nfscofficial.com
 ||nikkei.com
 ||niusnews.com
+||njav.com
+||njavtv.com
 ||nlfreevpn.com
 ||nodeseek.com
 ||nokola.com
@@ -2641,12 +2712,14 @@
 ||nordstromimage.com
 ||nordstromrack.com
 ||nordvpn.com
+||note.com
 ||nottinghampost.com
 ||now.com
 ||nownews.com
 ||noxinfluencer.com
 ||npsboost.com
 ||ntdtv.com
+||nthlink.com
 ||nuexpo.com
 ||nusatrip.com
 ||nuuvem.com
@@ -2712,6 +2785,7 @@
 ||paxful.com
 ||pbworks.com
 ||pbxes.com
+||pcgamesn.com
 ||pcgamestorrents.com
 ||pdproxy.com
 ||pendrivelinux.com
@@ -2795,13 +2869,14 @@
 ||pursuestar.com
 ||qianglie.com
 ||qiangwaikan.com
+||qobuz.com
 ||qoos.com
 ||qstatus.com
+||quakemachinex.com
 ||questvisual.com
 ||quora.com
 ||qz.com
 ||r18.com
-||radiojar.com
 ||radiovncr.com
 ||raggedbanner.com
 ||rapidmoviez.com
@@ -2839,6 +2914,7 @@
 ||robustnessiskey.com
 ||rojo.com
 ||ronjoneswriter.com
+||roushuwo.com
 ||rsdlmonitor.com
 ||rssmeme.com
 ||rule34video.com
@@ -2852,6 +2928,7 @@
 ||sakuralive.com
 ||sankakucomplex.com
 ||sankei.com
+||schwab.com
 ||scmp.com
 ||scribd.com
 ||scriptspot.com
@@ -2869,6 +2946,7 @@
 ||sex3.com
 ||sex.com
 ||sfshibao.com
+||sgqt0j.launches.appsflyersdk.com
 ||shadeyouvpn.com
 ||shadowsocks.com
 ||shenyunshop.com
@@ -2876,6 +2954,7 @@
 ||shiksha.com
 ||shodanhq.com
 ||shooshtime.com
+||shortconn.im.qcloud.com
 ||shutterstock.com
 ||sidelinesnews.com
 ||silvergatebank.com
@@ -2886,6 +2965,7 @@
 ||sinoca.com
 ||sinocast.com
 ||sinoinsider.com
+||sinyalee.com
 ||sis001.com
 ||sitekreator.com
 ||sketchappsources.com
@@ -2970,8 +3050,10 @@
 ||sunporno.com
 ||supchina.com
 ||superpages.com
+||supjav.com
 ||surfeasy.com
 ||surfshark.com
+||suyingtv.com
 ||swagbucks.com
 ||sydney.bing.com
 ||sydneytoday.com
@@ -2979,8 +3061,10 @@
 ||syncback.com
 ||synergyse.com
 ||syosetu.com
+||sysub.com
 ||t66y.com
 ||tagwalk.com
+||taiav.com
 ||taipeitimes.com
 ||taisounds.com
 ||talkatone.com
@@ -3015,6 +3099,7 @@
 ||thehansindia.com
 ||thehindu.com
 ||theinitium.com
+||theintercept.com
 ||thenewslens.com
 ||theporndude.com
 ||theportalwiki.com
@@ -3041,11 +3126,15 @@
 ||tibetsun.com
 ||tibettelegraph.com
 ||tibettruth.com
+||tigerbbs.com
+||tigerbrokers.com
+||tigerfintech.com
 ||tigervpn.com
 ||tiktokcdn.com
 ||tiktok.com
 ||tiktokv.com
 ||tiltbrush.com
+||time.com
 ||timesnownews.com
 ||timesofindia.indiatimes.com
 ||timtales.com
@@ -3068,8 +3157,10 @@
 ||torvpn.com
 ||totalvpn.com
 ||tracfone.com
+||tradeup.com
 ||tradingview.com
 ||trendsmap.com
+||trtworld.com
 ||trustwallet.com
 ||truthsocial.com
 ||tt1069.com
@@ -3125,6 +3216,7 @@
 ||twitturly.com
 ||tw.jiepang.com
 ||twkan.com
+||twstalker.com
 ||twttr.com
 ||tycool.com
 ||typepad.com
@@ -3158,6 +3250,7 @@
 ||v2ray.com
 ||valeursactuelles.com
 ||vansky.com
+||vava8.com
 ||vegasred.com
 ||vegas.williamhill.com
 ||venetianmacao.com
@@ -3228,10 +3321,12 @@
 ||waltermartin.com
 ||waselpro.com
 ||washingtonpost.com
+||washingtontimes.com
 ||watchinese.com
 ||wattpad.com
 ||waybig.com
 ||waymo.com
+||wbrks.com
 ||wearn.com
 ||webpkgcache.com
 ||wechatlawsuit.com
@@ -3256,6 +3351,7 @@
 ||wiki.phonegap.com
 ||wikiwand.com
 ||windscribe.com
+||windy.com
 ||wingamestore.com
 ||wionews.com
 ||wire.com
@@ -3281,6 +3377,7 @@
 ||wpoforum.com
 ||writesonic.com
 ||wsj.com
+||wtfpass.com
 ||wufafangwen.com
 ||wujieliulan.com
 ||wunderground.com
@@ -3297,6 +3394,7 @@
 ||xgmyd.com
 ||xhamster.com
 ||xiaohexie.com
+||xiaohu8.com
 ||xijie.wordpress.com
 ||xjtravelguide.com
 ||xm.com
@@ -3319,7 +3417,6 @@
 ||yesasia.com
 ||yespornplease.com
 ||yibaochina.com
-||yidio.com
 ||yigeni.com
 ||yipub.com
 ||yizhihongxing.com
@@ -3337,6 +3434,7 @@
 ||youtubeeducation.com
 ||youtubegaming.com
 ||youtubekids.com
+||youversionapi.com
 ||youversion.com
 ||youwin.com
 ||ytimg.com
@@ -3353,6 +3451,7 @@
 ||zerohedge.com
 ||zhangtianliang.com
 ||zh.ecdm.wikia.com
+||zhijianfengyi.com
 ||zhongzidi.com
 ||zh.pokerstrategy.com
 ||zhuatieba.com
@@ -3366,6 +3465,7 @@
 ||zootool.com
 ||zorrovpn.com
 ||zozotown.com
+||zozovideo.com
 ||zuola.com
 ||zvereff.com
 ||zynamics.com
